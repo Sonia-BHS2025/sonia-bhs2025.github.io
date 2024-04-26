@@ -9,5 +9,6 @@ h2 {
   text-align: center;
   background-color: LightPink;
   border-style: double;
+  border-width: 5px;
 }
 </style> 
