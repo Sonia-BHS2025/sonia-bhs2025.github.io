@@ -1,12 +1,13 @@
 <style>
 
-h1 {
+h1.top {
   text-align: center;
   background-color: coral;
 }
 
-h2 {
+h2.cat {
   text-align: center;
   background-color: LightPink;
+  border-style: double;
 }
 </style> 
