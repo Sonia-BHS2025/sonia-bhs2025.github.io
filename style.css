@@ -1,11 +1,11 @@
 <style>
 
-h1.top {
+h1 {
   text-align: center;
   background-color: coral;
 }
 
-h2.cat {
+h2 {
   text-align: center;
   background-color: LightPink;
   border-style: double;
