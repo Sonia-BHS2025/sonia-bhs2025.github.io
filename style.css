@@ -3,6 +3,7 @@
 h1 {
   text-align: center;
   background-color: coral;
+  font-family: "Courier New", monospace;
 }
 
 h2 {
@@ -10,5 +11,11 @@ h2 {
   background-color: LightPink;
   border-style: double;
   border-width: 5px;
+  font-family: "Courier New", monospace;
+}
+
+p {
+  text-align: center;
+  font-family: "Courier New", monospace;
 }
 </style> 
