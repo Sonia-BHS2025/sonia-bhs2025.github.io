@@ -2,14 +2,14 @@
 h1 {
   border-style: double;
   border-width: 5px;
-  background-color: LightPink;
+  background-color: LightSteelBlue;
   font-family: "Courier New", monospace;
   text-align: center;
 }
 
 h2 {
   text-align: center;
-  background-color: LightPink;
+  background-color: LightSteelBlue;
   border-style: double;
   border-width: 5px;
   font-family: "Courier New", monospace;
