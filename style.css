@@ -15,10 +15,14 @@ h2 {
   font-family: "Courier New", monospace;
 }
 
-p {
+div {
   text-align: center;
+}
+
+a {
   font-family: "Courier New", monospace;
-  font-size: 20px;
+  font-size: 30px;
+  color: black;
 }
 
 img {
